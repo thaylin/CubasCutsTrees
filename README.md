@@ -7,7 +7,7 @@ Plain HTML/CSS with no build step and no dependencies.
 ```
 index.html        page markup
 styles.css        all styles
-assets/           images (business card, hero crop, Open Graph image, favicon)
+assets/           images (hero crop, Open Graph link-preview image, favicon)
 ```
 
 To view it locally, open `index.html` in a browser.

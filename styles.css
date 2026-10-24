@@ -301,9 +301,7 @@ a { color: var(--orange); }
 }
 
 .contact__inner {
-  display: grid;
-  gap: 2.5rem;
-  max-width: var(--max);
+  max-width: 40rem;
   margin: 0 auto;
 }
 
@@ -321,14 +319,6 @@ a { color: var(--orange); }
   white-space: nowrap;
 }
 .contact__phone:hover { color: var(--orange); }
-
-.contact__card {
-  margin: 0 auto;
-  max-width: 34rem;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 16px 40px rgba(0, 0, 0, .5);
-}
 
 /* ---------- Footer ---------- */
 .footer {
@@ -365,13 +355,6 @@ a { color: var(--orange); }
   .logo__line2 { font-size: 4.2rem; }
 
   .service-grid { grid-template-columns: repeat(4, 1fr); }
-
-  .contact__inner {
-    grid-template-columns: 1fr 1.2fr;
-    align-items: center;
-    text-align: left;
-  }
-  .contact .section-title { text-align: left; }
 }
 
 @media (prefers-reduced-motion: reduce) {
