@@ -1,6 +1,6 @@
 # Cubas Cuts Trees
 
-Single-page static website for **Cubas Cuts Trees** (Alex Cubas, 919-333-5653): tree cutting & removal, trimming, cleanup, and storm work in Smithfield, NC and within 50 miles.
+Single-page static website for **Cubas Cuts Trees** (Alex Cubas, 919-333-5653): tree cutting & removal, trimming, cleanup, and storm work in Smithfield, NC and Johnston, Wake & Harnett counties (up to 50 miles).
 
 Plain HTML/CSS with no build step and no dependencies.
 
