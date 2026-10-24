@@ -175,6 +175,15 @@ a { color: var(--orange); }
   background: var(--orange);
 }
 
+.service-area {
+  margin: -.5rem 0 1.5rem;
+  text-wrap: balance;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.service-area svg { display: inline; vertical-align: -3px; color: var(--orange); }
+
 /* Orange brush-stroke label, like "Free Estimates" on the card */
 .brush {
   display: inline-block;
@@ -266,6 +275,14 @@ a { color: var(--orange); }
   background: var(--orange);
 }
 
+.section-intro {
+  text-wrap: balance;
+  max-width: 40rem;
+  margin: -.75rem auto 1.75rem;
+  color: var(--muted);
+  text-align: center;
+}
+
 .service-grid {
   display: grid;
   gap: 1rem;
@@ -319,6 +336,13 @@ a { color: var(--orange); }
   white-space: nowrap;
 }
 .contact__phone:hover { color: var(--orange); }
+
+.contact__area {
+  margin: -.75rem 0 1.5rem;
+  text-wrap: balance;
+  color: var(--muted);
+  font-weight: 700;
+}
 
 /* ---------- Footer ---------- */
 .footer {
